@@ -130,6 +130,8 @@ If we use seal we won't have to add 1 in our equation <br>
 
 The reason is that math random method generates a number from 0 to 1 <br>
 
+which gives it a very slim chance to simply return zero <br>
+
 
 
 
