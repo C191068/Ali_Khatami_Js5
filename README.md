@@ -309,6 +309,37 @@ console.log(grade);
 
 now we look at an example of rock paper scissors game <br>
 
+```js
+
+//Decision tree
+
+if(player1 === robot)
+{
+  console.log("game is tie") 
+}else if (player1 === "rock"){
+  if(robot === "paper"){
+    console.log("robot wins")
+    //
+  }else{
+    console.log("player1 wins")
+    // 
+  }
+}else if (player1 === "paper"){
+  if(robot === "scissors"){
+    console.log("robot wins")
+  }else{
+    console.log("player1 wins")
+  }
+}else{
+  if(robot === "rock"){
+    console.log("robot wins")
+  }else{
+    console.log("player1 wins")
+  }
+}
+
+```
+
 
 
 
