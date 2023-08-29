@@ -266,6 +266,9 @@ the above output shows A <br>
 
 as any score over 90 will not make part of this statement <br>
 
+![j68](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/4e06f5fe-8ac2-4d0c-9141-dec9b877997f)
+
+here we add a new variable <br>
 
 
 
