@@ -252,6 +252,9 @@ console.log(reply);
 ```
 
 
+![j66](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/f2126d4f-347f-47a1-80b6-5b97f461820d)
+
+as there is no A+ then the above output is undefined <br>
 
 
 
