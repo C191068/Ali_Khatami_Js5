@@ -123,6 +123,9 @@ It provides pseudo random number from zero to one <br>
 the above returns the random number from 1 to 10 <br>
 
 
+We shall use the floor method instead of ceil method <br>
+to generate random number <br>
+
 
 
 
