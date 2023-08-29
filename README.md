@@ -87,6 +87,30 @@ the above method takes two arguments base number and the exponent and return the
 power of a number <br>
 
 
+![j47](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/f5901b48-4ecb-419c-afff-e2a5d32f3b99)
+
+Code:
+
+```
+console.log(Math.min(2, 10, 1));
+
+```
+
+the above returns the lowest of all numbers <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
