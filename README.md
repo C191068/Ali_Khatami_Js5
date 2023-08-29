@@ -180,7 +180,8 @@ because why will we check for a car if tthe customer is banned <br>
 
 they can't buy the car if the car is ready <br>
 
-![j56](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/d27d3f89-79b8-450f-808d-650c2af5fe76)
+![j57](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/48372c69-9197-4384-af2a-4a8996646d83)
+
 
 we have a new variable that also hold boolean data <br>
 and other if else statement <br>
