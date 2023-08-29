@@ -43,6 +43,32 @@ the round method returns the value of the number rounded to the nearest integer 
 
 
 
+![j42](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/e7e40fce-8157-4f8a-ab2b-3e33da4ca3ce)
+
+When applied to 3.5 it returns 4
+
+![j43](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/cfc25691-a491-46fe-a91a-fc94e0348a17)
+
+code:
+
+```
+
+console.log(Math.ceil(3.3));
+
+```
+
+if we use the ceil method it will return the round up number <br>
+no matter what is after the decimel place <br>
+
+
+
+
+
+
+
+
+
+
 
 
 
