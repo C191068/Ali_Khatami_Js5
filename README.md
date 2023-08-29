@@ -205,6 +205,8 @@ all orders for car and bike will just stop when condition only for car is true <
 
 No one would get the bike <br>
 
+If we don't have logical order correct we can have angy car customers <br>
+
 
 
 
