@@ -162,6 +162,8 @@ example of if statement <br>
 
 example of else statement <br>
 
+the above output the message as undefined which is not goiod at all <br>
+
 
 
 
