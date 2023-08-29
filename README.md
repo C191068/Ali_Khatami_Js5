@@ -307,6 +307,8 @@ console.log(grade);
 ```
 
 
+now we look at an example of rock paper scissors game <br>
+
 
 
 
