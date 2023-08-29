@@ -15,3 +15,5 @@ console.log(Math.PI);
 here the above returns the value of PI <br>
 
 
+there are more math properties vailable at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math <br>
+
