@@ -149,6 +149,8 @@ code challenge :Write a code that will return random letter from your nam <br>
 
 ### If Statements 
 
+```If statements``` are great introduction to condituionals in programming <br>
+
 
 
 
