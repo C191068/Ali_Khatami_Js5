@@ -74,6 +74,18 @@ console.log(Math.floor(3.3));
 if we use the floor method it will round down the number no matter what is after the decimel place <br>
 
 
+![j46](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/09f91a27-beea-4deb-b786-34dee9fe9aed)
+Code:
+
+```
+
+console.log(Math.pow(2, 10));
+
+```
+
+the above method takes two arguments base number and the exponent and return the <br>
+power of a number <br>
+
 
 
 
