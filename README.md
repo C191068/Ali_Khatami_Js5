@@ -224,6 +224,33 @@ if the customer is not banned then the above output shows <br>
 
 If there is no car then the above shows <br>
 
+![j65](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/cc3b0b09-7310-45b0-83e4-9c8f0b4f90d0)
+
+No car and no bike then the above output shows <br>
+
+```js
+
+
+let customerIsBanned = false;
+let car;
+let bike = false;
+let reply;
+if (customerIsBanned) {
+  reply = `No car & bike for you`;
+} else if (car && bike) {
+  reply = `here is your ${car} & bike`;
+} else if (car) {
+  reply = `Here is your ${car}`;
+} else if (bike) {
+  reply = `Here is your bike`;
+} else {
+  reply = `Sorry we are out of car & bike`;
+}
+
+console.log(reply);
+
+```
+
 
 
 
