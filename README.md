@@ -19,3 +19,33 @@ there are more math properties vailable at https://developer.mozilla.org/en-US/d
 
 Math.trunc returns the integer portion of the number and truncates any decimel <br>
 
+
+![j40](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/23715e97-b6fb-4d56-b5b9-07f7a29e086e)
+
+Code:
+
+```
+
+console.log(Math.trunc(Math.PI));
+
+```
+
+we can see the above has converted float type PI to integer type <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
