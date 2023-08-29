@@ -270,6 +270,9 @@ as any score over 90 will not make part of this statement <br>
 
 here we add a new variable <br>
 
+![j69](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/dcd52639-709e-4a56-8d18-22b104636fc4)
+
+inside the else clause we will nest other if  statement <br>
 
 
 
