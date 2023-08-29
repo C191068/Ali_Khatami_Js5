@@ -2,5 +2,7 @@
 
 ### Math methods 
 
+Javascript math objects have both properties and methods <br>
+
 
 
