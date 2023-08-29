@@ -168,6 +168,10 @@ the above output the message as undefined which is not goiod at all <br>
 let us change the  reply to a message for our cutomer instead <br>
 
 
+![j55](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/598f9cd9-ac12-4ba9-a5f3-3f176d2b9af2)
+
+we craete a new variable that will hold boolean data <br>
+
 
 
 
