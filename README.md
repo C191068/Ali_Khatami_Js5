@@ -259,7 +259,10 @@ as there is no A+ then the above output is undefined <br>
 the logical order of if statement is like waterfall <br>
 
 
+![j67](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/0d308ae7-3fa7-4528-b030-b1e3d16fc7f2)
 
+
+the above output shows A <br>
 
 
 
