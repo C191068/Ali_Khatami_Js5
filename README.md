@@ -110,6 +110,10 @@ console.log(Math.max(2, 10, 1));
 the above retuns the highest number <br>
 
 
+The math.random is both interesting and useful <br>
+
+It provides pseudo random number from zero to one <br>
+
 
 
 
