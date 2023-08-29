@@ -61,6 +61,18 @@ if we use the ceil method it will return the round up number <br>
 no matter what is after the decimel place <br>
 
 
+![j45](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/11a6ab4a-8c48-4362-a804-1fee20bdb9ac)
+
+
+Code:
+
+```
+console.log(Math.floor(3.3));
+
+```
+
+if we use the floor method it will round down the number no matter what is after the decimel place <br>
+
 
 
 
