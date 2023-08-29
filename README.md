@@ -164,6 +164,9 @@ example of else statement <br>
 
 the above output the message as undefined which is not goiod at all <br>
 
+![j60](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/c456625b-4e57-436a-8c90-a4b078044bdc)
+
+thus above is the correct one <br>
 
 let us change the  reply to a message for our cutomer instead <br>
 
@@ -172,6 +175,7 @@ let us change the  reply to a message for our cutomer instead <br>
 
 we craete a new variable that will hold boolean data <br>
 
+![j61](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/b0f45219-f861-4ff1-a213-27c870e601ee)
 
 
 if the customer bnned is true we will reply no soup for you <br>
@@ -207,7 +211,13 @@ No one would get the bike <br>
 
 If we don't have logical order correct we can have angy car customers <br>
 
+![j62](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/d5de08df-9f21-43e4-9261-9ae3001184e9)
 
+here if the customer is banned then the above output is shown <br>
+
+![j63](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/debf2d5e-2f0b-4de3-9cf8-f7c3f230c9ce)
+
+if the customer is not banned then the above output shows <br>
 
 
 
