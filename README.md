@@ -256,6 +256,8 @@ console.log(reply);
 
 as there is no A+ then the above output is undefined <br>
 
+the logical order of if statement is like waterfall <br>
+
 
 
 
