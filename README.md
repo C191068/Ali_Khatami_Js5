@@ -152,6 +152,8 @@ code challenge :Write a code that will return random letter from your nam <br>
 ```If statements``` are great introduction to condituionals in programming <br>
 
 
+they let us to make decision based on current state of data <br>
+
 
 
 
