@@ -192,7 +192,16 @@ and other if else statement <br>
 we will copy this part and paste it again <br>
 
 
+![j59](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/4c820fa0-5e8e-4bbe-9f44-9123f7d830cd)
 
+
+we have given a new condition for bike <br>
+
+this condition must come before the condition of car <br>
+
+if condition of car was above our condition of car and bike <br>
+
+all orders for car and bike will just stop when condition only for car is true <br>
 
 
 
