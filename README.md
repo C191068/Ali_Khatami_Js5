@@ -32,6 +32,16 @@ console.log(Math.trunc(Math.PI));
 
 we can see the above has converted float type PI to integer type <br>
 
+![j41](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/ad609d26-cf1f-448e-a931-adcd0f8c7031)
+Code: 
+
+```
+console.log(Math.round(3.4));
+
+```
+the round method returns the value of the number rounded to the nearest integer <br>
+
+
 
 
 
