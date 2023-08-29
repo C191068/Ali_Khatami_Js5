@@ -17,5 +17,5 @@ here the above returns the value of PI <br>
 
 there are more math properties vailable at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math <br>
 
-Math.trunc returns the integer portion of the number <br>
+Math.trunc returns the integer portion of the number and truncates any decimel <br>
 
