@@ -220,6 +220,9 @@ here if the customer is banned then the above output is shown <br>
 if the customer is not banned then the above output shows <br>
 
 
+![j64](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/20037c07-5513-4de3-8b2c-58ee2481a0a9)
+
+If there is no car then the above shows <br>
 
 
 
