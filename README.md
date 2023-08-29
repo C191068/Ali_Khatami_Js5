@@ -141,6 +141,9 @@ from 1 to 10 <br>
 
 ### Code challenge 
 
+![j52](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/9c1c00f5-aa51-435e-9797-91c805543d52)
+
+code challenge :Write a code that will return random letter from your nam <br>
 
 
 
