@@ -176,6 +176,8 @@ we craete a new variable that will hold boolean data <br>
 
 if the customer bnned is true we will reply no soup for you <br>
 
+because why will we check for a car if tthe customer is banned <br>
+
 
 
 
