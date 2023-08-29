@@ -100,6 +100,16 @@ the above returns the lowest of all numbers <br>
 
 
 
+![j48](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/9fbcc648-c19c-4ff5-86d5-9b2bf3191ee1)
+Code:
+
+```
+console.log(Math.max(2, 10, 1));
+
+```
+the above retuns the highest number <br>
+
+
 
 
 
