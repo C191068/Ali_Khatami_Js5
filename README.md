@@ -274,6 +274,10 @@ here we add a new variable <br>
 
 inside the else clause we will nest other if  statement <br>
 
+![j70](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/27069b58-ed7b-467c-9f9a-2d65a292e182)
+
+For 49 we got the above output <br>
+
 
 
 
