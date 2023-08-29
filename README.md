@@ -118,6 +118,11 @@ The math.random is both interesting and useful <br>
 It provides pseudo random number from zero to one <br>
 
 
+![j50](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/edf20def-c287-46b8-9c04-8041e5d3b75b)
+
+the above returns the random number from 1 to 10 <br>
+
+
 
 
 
