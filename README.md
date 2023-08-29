@@ -187,6 +187,9 @@ we have a new variable that also hold boolean data <br>
 and other if else statement <br>
 
 
+![j58](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/5199d559-3b77-41f5-9f05-78cddb736966)
+
+we will copy this part and paste it again <br>
 
 
 
