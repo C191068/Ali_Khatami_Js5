@@ -132,6 +132,13 @@ The reason is that math random method generates a number from 0 to 1 <br>
 
 which gives it a very slim chance to simply return zero <br>
 
+therefore using ceil method when genrating a random number also <br>
+has a very slim chance to return 0 <br>
+
+so we will use floor method as illustrated to generate number <br>
+from 1 to 10 <br>
+
+
 
 
 
