@@ -203,6 +203,8 @@ if condition of car was above our condition of car and bike <br>
 
 all orders for car and bike will just stop when condition only for car is true <br>
 
+No one would get the bike <br>
+
 
 
 
