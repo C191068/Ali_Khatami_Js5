@@ -126,6 +126,8 @@ the above returns the random number from 1 to 10 <br>
 We shall use the floor method instead of ceil method <br>
 to generate random number <br>
 
+If we use seal we won't have to add 1 in our equation <br>
+
 
 
 
