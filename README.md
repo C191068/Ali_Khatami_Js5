@@ -279,6 +279,35 @@ inside the else clause we will nest other if  statement <br>
 For 49 we got the above output <br>
 
 
+```js
+
+
+let examScore = 90;
+let grade;
+let universityStudent = true;
+
+if (examScore >= 90) {
+  grade = "A+";
+} else if (examScore >= 80) {
+  grade = "A";
+} else if (examScore >= 70) {
+  grade = "A-";
+} else if (examScore >= 60) {
+  grade = "B+";
+} else {
+  if (universityStudent) {
+    grade = "Fail";
+  } else {
+    grade = "Absent";
+  }
+}
+console.log(grade);
+
+
+```
+
+
+
 
 
 
