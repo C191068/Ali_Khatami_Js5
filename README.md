@@ -154,6 +154,13 @@ code challenge :Write a code that will return random letter from your nam <br>
 
 they let us to make decision based on current state of data <br>
 
+![j53](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/f41d417d-5d21-4fe2-b1a6-4702703da6f6)
+
+example of if statement <br>
+
+![j54](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/d220d973-da29-4d85-97ce-f6bd9df41c39)
+
+example of else statement <br>
 
 
 
