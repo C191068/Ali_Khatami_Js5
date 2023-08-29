@@ -264,6 +264,8 @@ the logical order of if statement is like waterfall <br>
 
 the above output shows A <br>
 
+as any score over 90 will not make part of this statement <br>
+
 
 
 
