@@ -178,6 +178,13 @@ if the customer bnned is true we will reply no soup for you <br>
 
 because why will we check for a car if tthe customer is banned <br>
 
+they can't buy the car if the car is ready <br>
+
+![j56](https://github.com/C191068/Ali_Khatami_Js5/assets/89090776/d27d3f89-79b8-450f-808d-650c2af5fe76)
+
+we have a new variable that also hold boolean data <br>
+and other if else statement <br>
+
 
 
 
